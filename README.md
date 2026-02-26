@@ -88,6 +88,15 @@ Market Movement:      +0.03%
 ═══════════════════════════════════════════════════════════
 ```
 
+============================================================
+TRADING SUMMARY
+============================================================
+Duration: 30.1 minutes
+Total trades: 290
+Final inventory: +0.006000 BTC
+Final PnL: $+410.26
+
+'''
 ### Order Flow Imbalance Signal Strength
 
 ```
@@ -431,7 +440,7 @@ reward = trade_pnl
 
 2. **RL outperforms classical models**
    - +4.3 Sharpe points vs Avellaneda-Stoikov
-   - 64% win rate vs 1%
+   - 65% win rate vs 1%
    - Adapts to regime changes
 
 3. **Multi-venue routing matters**
@@ -463,13 +472,6 @@ git checkout -b feature/your-feature
 pip install -r requirements-dev.txt
 pytest tests/
 flake8 python/
-```
-
----
-
-## 📞 Contact
-
-- **Email**: ranjanvswamyjnv2005@gmail.com
 
 ---
 
@@ -487,7 +489,7 @@ flake8 python/
 
 <div align="center">
 
-**Built with ❤️ by the IntelliMM @Team Misfits**
+**Built with ❤️ by the HackSRM7.0 @Team Misfits**
 
 *Making markets smarter, one trade at a time.*
 
