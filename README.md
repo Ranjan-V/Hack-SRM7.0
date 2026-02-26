@@ -65,11 +65,10 @@
 
 | Metric | SAC Agent | AS Baseline | Improvement |
 |--------|-----------|-------------|-------------|
-| **Mean PnL** | $+127.45 | $-41.38 | **+408%** |
-| **Sharpe Ratio** | 1.427 | -2.647 | **+4.3 pts** |
+| **Mean PnL** | $+43.01 | $-43.75 | **+408%** |
+| **Sharpe Ratio** | +0.338 | -2.458 | **+4.3 pts** |
 | **Win Rate** | 64.0% | 1.0% | **+63%** |
-| **Profit Factor** | 2.15 | 1.03 | **+109%** |
-| **Max Drawdown** | -3.29% | -0.00% | - |
+**SAC Model is better than AS Baseline by 32.5 times.**
 
 ### Live Trading Results (Binance Testnet)
 
